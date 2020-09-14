@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "WaniKani Companion",
+  "name": "WaniKani Companion v2",
   "version": "2.0.0.0",
-  "description": "Your favorite Japanese learning app at a click away.",
+  "description": "WaniKani status notifier for api v2",
   "browser_action": {
-    "default_title": "WaniKani Companion",
+    "default_title": "WaniKani Companion v2",
     "default_icon": "/img/wanikani/icon.png",
     "default_popup": "/html/home.html"
   },
